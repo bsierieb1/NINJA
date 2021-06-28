@@ -1,6 +1,6 @@
 # NINJA (Nematode INdicator Joint Analysis) version 1
 
-This is a complete Shiny app which may be downloaded and run locally (check out the tutorials at https://shiny.rstudio.com/tutorial/ if you are not familiar with Shiny).
+This is a complete Shiny app which may be run locally (check out the tutorials at https://shiny.rstudio.com/tutorial/ if you are not familiar with Shiny). Make sure that ui.R, server.R, database.xls, and www are in the same directory.
 
 If you only need to access certain fragments of the code (e.g. a function to calculate the Maturity Index), look in the file server.R.
 
